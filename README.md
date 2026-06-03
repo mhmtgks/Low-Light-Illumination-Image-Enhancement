@@ -22,3 +22,5 @@ And ipynb file and checkpoints folder should be in same folder like this ;
 |   
 ├── Enhancement.ipynb
 ```     
+
+Then you can run them all
