@@ -23,4 +23,4 @@ And ipynb file and checkpoints folder should be in same folder like this ;
 ├── Enhancement.ipynb
 ```     
 
-Then you can run them all
+All Setup, Training and Test parts are splitted codeblocks in Enhancement.ipynb file.
