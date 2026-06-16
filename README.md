@@ -18,7 +18,7 @@ And ipynb file and checkpoints folder should be in same folder like this ;
 ```
 ...
 ├── checkpoints
-|   └── epoch_20_spa_0.05_exp_1.0.pth     
+|   └── epoch_100_spa_0.05_exp_1.0.pth     
 |   
 ├── Enhancement.ipynb
 ```     
